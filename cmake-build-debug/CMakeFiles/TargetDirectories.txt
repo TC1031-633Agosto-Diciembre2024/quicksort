@@ -1,0 +1,3 @@
+/Users/andrestorres/Documents/ITESM/Estructuras/Semana 3/quicksort/cmake-build-debug/CMakeFiles/quicksort.dir
+/Users/andrestorres/Documents/ITESM/Estructuras/Semana 3/quicksort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrestorres/Documents/ITESM/Estructuras/Semana 3/quicksort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
